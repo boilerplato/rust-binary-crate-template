@@ -1,0 +1,14 @@
+[package]
+name = "{{packageName}}"
+version = "{{appVersion}}"
+description = "{{appDescription}}"
+homepage = "{{homepage}}"
+repository = "{{repoUrl}}"
+keywords = {{json_str keywords}}
+categories = {{json_str categories}}
+authors = ["{{{author}}}"]
+readme = "README.md"
+license = "{{license}}"
+edition = "2018"
+
+[dependencies]

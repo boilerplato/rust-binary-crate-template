@@ -1,0 +1,14 @@
+[package]
+name = "rust-binary-crate-template"
+version = "0.1.0"
+description = "A boilerplato template for a Rust binary application."
+homepage = "https://github.com/boilerplato/rust-binary-crate-template"
+repository = "https://github.com/boilerplato/rust-binary-crate-template"
+keywords = ["boilerplato", "rust", "template"]
+categories = ["template-engine"]
+authors = ["Rousan Ali <rousanali786@gmail.com>"]
+readme = "README.md"
+license = "MIT"
+edition = "2018"
+
+[dependencies]
